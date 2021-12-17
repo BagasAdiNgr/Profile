@@ -1,0 +1,19 @@
+
+            h1{
+                color: black;
+                font-family: serif;
+                background: green;
+                border: 5px solid black;
+            }
+            a {
+                color: white;
+                inline-size: auto;
+                background: yellow;
+                margin: 45px;
+                padding: 20px;
+                text-decoration:none
+            }
+            p  {
+                text-align: center;
+                padding: 10px;
+            }
